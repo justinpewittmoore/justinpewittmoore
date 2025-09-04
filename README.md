@@ -13,8 +13,8 @@ coming online here, please be patient.
 - Supercharging output
 - Watch as folks discover their inner worth
 #### 3.  A client is stuck
-- The production bug is a result of *my code*. I love this supercharged feeling.
-- I see the way out of the problem for the client :: It's **go** time. Sorry baby, I'm going to be working **late** on this one.
+- You know the feeling of "The production bug is a result of *my code*." ? i crave working like this supercharged feeling without the prod bug!
+- I see the way out of the problem for the client :: It's **go** time -- i'm going to be working **late** on this one.
 #### 4.  No one else wants to do the grunt work / manual labor / annoying task
 - Put me in coach! Just **get it done**
 
