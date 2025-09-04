@@ -1,12 +1,11 @@
 # hi! is this thing on??
 
-coming online here, please be patient.
-
 ### Desirable (have done it, can do it; i absolutely love it.)
 #### 1. Throw me in the deep end
 - Fearless pursuer of order amidst chaos
 - Make sense of complicated, tangled web of complexity
 - Ask questions to uncover root issue(s)
+- New toolchain, new framework, new cloud, new editor; all good with me!
 #### 2. Growing your talent (internally and via hiring)
 - Coaching where needed, advocate for, promote internally **or** *externally*
 - Validate ability and drive
